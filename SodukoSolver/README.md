@@ -1,5 +1,5 @@
 # SODUKO SOLVER
-![LeetCode Question Link](https://leetcode.com/problems/sudoku-solver/)
+!(https://leetcode.com/problems/sudoku-solver/)
 <sup>
 
 Write a program to solve a Sudoku puzzle by filling the empty cells.
