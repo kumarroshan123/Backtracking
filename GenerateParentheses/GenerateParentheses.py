@@ -8,6 +8,7 @@ class Solution:
                 p(n, s + 1, e, t + '(',res)
             if s > e:
                 p(n, s, e + 1, t + ')',res)
+                
         res=[]
         p(n,0,0,"",res)
         return res
