@@ -4,3 +4,4 @@
 ### 3.Permutation
 ### 4.N-Queen2
 ### 5.Generate Parentheses
+### 6.Permutation2
