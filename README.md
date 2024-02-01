@@ -5,9 +5,9 @@
 ### 4.N-Queen2
 ### 5.Generate Parentheses
 ### 6.Permutation2
-### 8.Combination
-### 9.Combination2
-### 10.Subset
-### 11.CombinationSum
-### 12.CombinationSum2
-### 13.LetterCombination
+### 7.Combination
+### 8.Combination2
+### 9.Subset
+### 10.CombinationSum
+### 11.CombinationSum2
+### 12.LetterCombination
